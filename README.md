@@ -5,6 +5,8 @@
 
 🔍 **[uncov](https://github.com/llbbl/uncov)** - Stop guessing which files need tests. Find your coverage gaps in seconds, not hours.
 
+🥹 **[api2spec](https://github.com/api2spec/api2spec)** - create openapi spec from your code
+
 🔧 **[upkeep-rs](https://github.com/llbbl/upkeep-rs)** - One command to audit, upgrade, and grade your Rust crate's health—unified output, zero context switching.
 
 🔧 **[upkeep](https://github.com/llbbl/upkeep)** - Keep your JS/TS repos healthy with AI-powered dependency updates, security audits, and quality scores in one command.
