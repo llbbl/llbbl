@@ -3,35 +3,39 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![bun](https://img.shields.io/badge/-bun-000000?logo=bun&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-D97757?logo=claude&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white) ![Coolify](https://img.shields.io/badge/-Coolify-6B16ED?logo=coolify&logoColor=white) ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white) ![Ghostty](https://img.shields.io/badge/-Ghostty-3551F3?logo=ghostty&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?logo=macos&logoColor=white) ![Microblog](https://img.shields.io/badge/-Microblog-FF8800?logo=microblog&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white) ![Zenbrowser](https://img.shields.io/badge/-Zenbrowser-F76F53?logo=zenbrowser&logoColor=white) 
 
 
-✨ **[positivehelp](https://github.com/llbbl/positivehelp)** - Spread positivity with curated, invite-only messages that brighten someone's day.
+🔍 **[uncov](https://github.com/llbbl/uncov)** - Stop guessing which files need tests. Find your coverage gaps in seconds, not hours.
 
- **[api2spec](https://github.com/api2spec/api2spec)** - create openapi spec from your code
-
-🔮 **[semantic-docs](https://github.com/llbbl/semantic-docs)** - Stop wrestling with docs search. Give users AI-powered answers from your content in minutes, not months.
+🔧 **[upkeep-rs](https://github.com/llbbl/upkeep-rs)** - One command to audit, upgrade, and grade your Rust crate's health—unified output, zero context switching.
 
 🔧 **[upkeep](https://github.com/llbbl/upkeep)** - Keep your JS/TS repos healthy with AI-powered dependency updates, security audits, and quality scores in one command.
 
+✨ **[positivehelp](https://github.com/llbbl/positivehelp)** - Spread positivity with curated, invite-only messages that brighten someone's day.
+
 🧹 **[repjan](https://github.com/llbbl/repjan)** - Your GitHub has repos you forgot existed. Find and archive the cobwebs in one session.
 
-📋 **[logan-logger-ts](https://github.com/llbbl/logan-logger-ts)** - Write logging code once. Run it everywhere—Node, Deno, Bun, or browser—with zero dependencies.
-
-🔮 **[libsql-search](https://github.com/llbbl/libsql-search)** - Drop semantic search into your static site in minutes—no Elasticsearch, no infrastructure, just embeddings that work.
-
-📚 **[semantic-docs-hono](https://github.com/llbbl/semantic-docs-hono)** - Ship beautiful docs with AI search that actually understands questions—zero database setup, pure edge performance.
-
-📚 **[semantic-docs-nuxt](https://github.com/llbbl/semantic-docs-nuxt)** - Ship docs with AI search your users actually love. Six themes, edge-ready, zero config.
+🔮 **[semantic-docs](https://github.com/llbbl/semantic-docs)** - Stop wrestling with docs search. Give users AI-powered answers from your content in minutes, not months.
 
 🕺 **[luddy.dance](https://github.com/llbbl/luddy.dance)** - Experience 10 hours of pure Luddy energy - the ultimate Ludwig dance loop for true fans.
-
-🔄 **[pkglock-rust](https://github.com/llbbl/pkglock-rust)** - Switch between local and remote NPM registries in one command. No more editing package-lock.json by hand.
-
-🔖 **[raindrop-import-scripts](https://github.com/llbbl/raindrop-import-scripts)** - Migrate years of scattered bookmarks to Raindrop.io in minutes, not hours of manual copying.
-
-🧹 **[cleanup_prs](https://github.com/llbbl/cleanup_prs)** - Stop manually hunting stale PR deployments. Clean months of Helm release clutter in one command.
 
 💬 **[codeigniter-chat](https://github.com/llbbl/codeigniter-chat)** - Learn 5 different frontend approaches with one backend—XML, JSON, HTML, Vue, and Svelte chat implementations side by side.
 
 🔮 **[semantic-docs-next](https://github.com/llbbl/semantic-docs-next)** - Ship docs with AI search that actually understands questions—no vector database setup, just drop in markdown.
+
+📋 **[logan-logger-ts](https://github.com/llbbl/logan-logger-ts)** - Write logging code once. Run it everywhere—Node, Deno, Bun, or browser—with zero dependencies.
+
+📚 **[semantic-docs-hono](https://github.com/llbbl/semantic-docs-hono)** - Ship beautiful docs with AI search that actually understands questions—zero database setup, pure edge performance.
+
+🧹 **[cleanup_prs](https://github.com/llbbl/cleanup_prs)** - Stop manually hunting stale PR deployments. Clean months of Helm release clutter in one command.
+
+🔄 **[pkglock-rust](https://github.com/llbbl/pkglock-rust)** - Switch between local and remote NPM registries in one command. No more editing package-lock.json by hand.
+
+🐍 **[setup-python](https://github.com/llbbl/setup-python)** - Skip the Python environment hell. Get a clean, reproducible macOS setup in 5 commands.
+
+🔮 **[libsql-search](https://github.com/llbbl/libsql-search)** - Drop semantic search into your static site in minutes—no Elasticsearch, no infrastructure, just embeddings that work.
+
+🔖 **[raindrop-import-scripts](https://github.com/llbbl/raindrop-import-scripts)** - Migrate years of scattered bookmarks to Raindrop.io in minutes, not hours of manual copying.
+
+📚 **[semantic-docs-nuxt](https://github.com/llbbl/semantic-docs-nuxt)** - Ship docs with AI search your users actually love. Six themes, edge-ready, zero config.
 
 
 
@@ -39,11 +43,11 @@
 
 ## Latest Blog Posts
 
-- [AMP Code: First Impressions of a Claude Code Competitor](https://llbbl.blog/2026/01/30/amp-code-first-impressions-of.html)
-- https://llbbl.blog/2026/01/29/the-internet-may-be-dead.html
-- https://llbbl.blog/2026/01/29/heres-a-helpful-idea-on.html
-- https://llbbl.blog/2026/01/28/jquery-was-released-on-the.html
-- https://llbbl.blog/2026/01/28/shu-has-a-great-piece.html
+- [Why IndiePub Matters More Than Ever](https://llbbl.blog/2026/02/05/why-indiepub-matters-more-than.html)
+- [Why Data Modeling Matters When Building with AI](https://llbbl.blog/2026/02/04/why-data-modeling-matters-when.html)
+- https://llbbl.blog/2026/02/03/if-you-have-an-iphone.html
+- https://llbbl.blog/2026/02/03/hey-hello-if-you-dont.html
+- [JavaScript Still Doesn't Have Types (And That's Probably Fine)](https://llbbl.blog/2026/02/02/javascript-still-doesnt-have-types.html)
 
 
 
@@ -61,4 +65,4 @@
 
 
 ---
-*Generated by [profile-me](https://github.com/llbbl/profile-me) on 2026-01-30*
+*Generated by [profile-me](https://github.com/llbbl/profile-me) on 2026-02-06*
